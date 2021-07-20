@@ -1,0 +1,27 @@
+.header{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 18px #0040a7;
+}
+
+.header1{
+    font-size: 15px;
+    color: black;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0px;
+    color: white;
+    background-color: darkorchid;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
+
+canvas{
+    border: 3px solid darkred;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px #0040a7;
+}
